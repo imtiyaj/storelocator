@@ -1,0 +1,13 @@
+2014-07-23 11:32:17.253 StoreLocator[10224:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 11:32:17.281 StoreLocator[10224:70b] Unlimited access to network resources
+2014-07-23 11:32:17.287 StoreLocator[10224:70b] Fix applied for database locations?: YES
+2014-07-23 11:32:17.288 StoreLocator[10224:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-23 11:32:17.683 StoreLocator[10224:70b] Resetting plugins due to page load.
+2014-07-23 11:32:19.307 StoreLocator[10224:70b] Finished load of: file:///Users/imtiyaj/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E3D6B385-92B3-4CB7-A149-03C16950B6D8/StoreLocator.app/www/index.html
+2014-07-23 11:32:22.452 StoreLocator[10224:70b] THREAD WARNING: ['Geolocation'] took '12.761963' ms. Plugin should use a background thread.
